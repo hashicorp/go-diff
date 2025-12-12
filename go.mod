@@ -1,4 +1,4 @@
-module github.com/blubracket/go-diff
+module github.com/hashicorp/go-diff
 
 go 1.14
 
